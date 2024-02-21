@@ -51,7 +51,7 @@ function calcularNumSecreto(){
 
         var elementoResultado = document.getElementById("lista-errores");
         elementoResultado.textContent = errores.join(", ");
-        //elementoErrores.textContent = errores.join(", ");
+        
     }
     }
    
